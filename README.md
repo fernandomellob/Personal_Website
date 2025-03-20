@@ -1,2 +1,2 @@
-# Portfolio
-Portfolio pessoal para fins profissionais.
+# Personal Website
+Personal website for professional purposes.
